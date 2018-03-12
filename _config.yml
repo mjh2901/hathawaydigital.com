@@ -11,5 +11,3 @@ url: "https://hathawaydigital.com"
 
 # build settings
 markdown: kramdown
-
-remote_theme: sunbliss/photorama
