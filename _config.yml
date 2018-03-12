@@ -9,4 +9,4 @@ github_username: mjh2901
 # build settings
 markdown: kramdown
 
-remote_theme: agusmakmum/agusmakmum.github.io
+remote_theme: sunbliss/photorama
