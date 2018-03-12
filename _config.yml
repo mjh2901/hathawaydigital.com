@@ -11,3 +11,5 @@ url: "https://hathawaydigital.com"
 
 # build settings
 markdown: kramdown
+
+theme: jekyll-theme-midnight
