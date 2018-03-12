@@ -1,0 +1,12 @@
+# basic option
+title: Hathaway Digital
+author: Mike Hathaway
+email: mike@mikehathaway.com
+description: Company Website
+twitter_username: mikehathaway
+github_username: mjh2901
+
+# build settings
+markdown: kramdown
+# theme: minima
+remote_theme: inded/Jekyll_modern-blog
