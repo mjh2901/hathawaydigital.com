@@ -6,7 +6,7 @@ description: Company Website
 twitter_username: mikehathaway
 github_username: mjh2901
 
-baseurl:""
+baseurl: ""
 url: "https://hathawaydigital.com"
 
 # build settings
