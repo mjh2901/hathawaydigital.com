@@ -9,4 +9,4 @@ github_username: mjh2901
 # build settings
 markdown: kramdown
 
-remote_theme: inded/Jekyll_modern-blog
+remote_theme: sunbliss/photorama
