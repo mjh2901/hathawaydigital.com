@@ -10,11 +10,11 @@ relative_permalinks: true
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
-tagline:             'tagline'
+name:				         Hathaway Digital
+title:               Hathaway Digital
+tagline:             'Quality Consulting for your Digital Life'
 description:         'description'
-url:                 site url
+url:                 https://hathawaydigital.com
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
@@ -25,9 +25,9 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
+  name:           	 Mike Hathaway
   url:            	 your site url
-  facebook:          username
+  facebook:          mikehathaway
   twitter:           username
   google_plus:       username
   linkedin:          username
