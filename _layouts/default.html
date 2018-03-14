@@ -13,7 +13,7 @@
     {{ content }}
 
     {% if page.url != '/index.html' %}
-      {% include /includes/sidebar-toggle.html %}
+      {% include /_includes/sidebar-toggle.html %}
     {% endif %}
 
     {% if page.url == '/index.html' %}
@@ -21,6 +21,6 @@
       {% include /_includes/footer.html %}
     {% endif %}
 
-    {% include /_footer-scripts.html %}
+    {% include /_includes/footer-scripts.html %}
   </body>
 </html>
