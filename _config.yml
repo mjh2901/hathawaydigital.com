@@ -27,14 +27,14 @@ disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
   name:           	 Mike Hathaway
-  url:            	 your site url
+  url:            	 htps://mikehathaway.composer
   facebook:          mikehathaway
-  twitter:           username
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
+  twitter:           mikehathaway
+  #google_plus:       username
+  linkedin:          hathawaymike
+  #dribbble:          username
+  #pinterest:         username
+  #kiva:              username
 
 fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
