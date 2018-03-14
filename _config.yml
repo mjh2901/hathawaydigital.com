@@ -7,6 +7,10 @@ highlighter:         rouge
 
 # Permalinks
 permalink:           /:title
+# Permalinks fix
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
 # relative_permalinks: true
 
 # Setup
