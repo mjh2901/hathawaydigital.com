@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html lang="en-us" class="no-js">
 
-  {% include /_includes/head.html %}
+  {% include head.html %}
 
   <body>
     {% if page.url != '/index.html' %}
       <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
-      {% include /_includes/sidebar-nav.html %}
-      {% include /_includes/menu.html %}
+      {% include sidebar-nav.html %}
+      {% include menu.html %}
     {% endif %}
 
     {{ content }}
 
     {% if page.url != '/index.html' %}
-      {% include /_includes/sidebar-toggle.html %}
+      {% include sidebar-toggle.html %}
     {% endif %}
 
     {% if page.url == '/index.html' %}
-      {% include /_includes/subscribe.html %}
-      {% include /_includes/footer.html %}
+      {% include subscribe.html %}
+      {% include footer.html %}
     {% endif %}
 
-    {% include /_includes/footer-scripts.html %}
+    {% include footer-scripts.html %}
   </body>
 </html>
