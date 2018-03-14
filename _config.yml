@@ -10,8 +10,8 @@ permalink:           /:title
 # relative_permalinks: true
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
+timezone:            America/Los_Angelos # eg. Asia/Kathmandu
+locale:              en_us # eg. en_us
 name:				         Hathaway Digital
 title:               Hathaway Digital
 tagline:             'Quality Consulting for your Digital Life'
