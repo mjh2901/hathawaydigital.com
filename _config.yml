@@ -1,8 +1,8 @@
 # Site settings
 title: Hathaway Digital
 email: mike@mikehathaway.com
-description: #> # this means to ignore newlines until "baseurl:"
-Hathaway Digital proven consulting for your digital life
+#description: > # this means to ignore newlines until "baseurl:"
+description: Hathaway Digital proven consulting for your digital life
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://hathawaydigital.com" # the base hostname & protocol for your site
 
