@@ -9,7 +9,7 @@ url: "https://hathawaydigital.com" # the base hostname & protocol for your site
 # User setting
 owner: Mike Hathaway
 email: mike@mikehathaway.com
-facebook_username: miehathaway
+facebook_username: mikehathaway
 twitter_username: mikehathaway
 github_username: mjh2901
 address:
@@ -28,3 +28,9 @@ plugins:
   - jekyll-feed
   - jekyll-admin
   - jekyll-include-cache
+
+# Jekyll Admin Option
+jekyll_admin:
+  hidden_links:
+    - datafiles
+
