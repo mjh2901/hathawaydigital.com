@@ -24,3 +24,7 @@ google_api_key:
 
 # Build settings
 markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-admin
+  - jekyll-include-cache
